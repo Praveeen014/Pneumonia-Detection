@@ -125,6 +125,6 @@ streamlit run app.py
 | Name | Github profile |
 |---|---|
 | Dipu Thakur | https://github.com/Dipu021 |
-| member 2 | url |
+| Amit kumar Kurmi |https://github.com/amitkurmi014 |
 | Harichandra Thakur | https://github.com/harriii2 |
 | Prabin Kumar Sah | https://github.com/Praveeen014 |
